@@ -1,0 +1,30 @@
+{
+  "name": "nodezy",
+  "version": "1.0.0",
+  "description": "CLI package to create REST API and resources ",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-mostafa/nodezy.git"
+  },
+  "keywords": [
+    "rest",
+    "node",
+    "express",
+    "validation",
+    "controllers"
+  ],
+  "author": {
+    "name": "Islam Mostafa",
+    "url": "https://github.com/i-mostafa",
+    "email": "islamm.mostafa.fahmey@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i-mostafa/nodezy/issues"
+  },
+  "homepage": "https://github.com/i-mostafa/nodezy#readme"
+}
